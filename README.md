@@ -33,6 +33,11 @@ Testing and Power-on: Finally, I connected a power source to ensure the connecti
 <img width="794" height="619" alt="Screenshot 2026-04-18 at 11 48 29 PM" src="https://github.com/user-attachments/assets/cb2c13cf-dae3-4834-9298-36830d4e976a" />
 
 ---
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2b46853c-8e76-49bb-b3c2-98d4bd45b708" />
+
+
+---
 ## Hours spent on this project - 1.5 hr
 
 ---
